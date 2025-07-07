@@ -1,7 +1,7 @@
 [build]
   command = "npm run build"
-  publish = ".next"
-  base = "."
+  publish = "dashboard-next/.next"
+  base = "dashboard-next"
 
 [dev]
   command = "npm run dev"
